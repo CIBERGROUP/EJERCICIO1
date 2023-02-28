@@ -42,6 +42,10 @@ partes interesadas y tomadores de decisiones.
 
 ![Image](https://user-images.githubusercontent.com/126510734/221722879-fcbb610a-5292-4f25-a68c-f712d71a0da2.png)
 
+![Image](https://user-images.githubusercontent.com/126511001/221891885-bafd3c0e-d08e-4c8e-8151-8ab722145339.jpg)
+
+De acuerdo a la ultima imagen, se presentan seis metodologías para la evaluaciones de riesgos, las cuales se complementan en un escenario de siete variables, focalizadas en la evaluación de acciones, efectos, colaterales y contingencias.
+
 **Análisis de Impacto Empresarial**
 
 Un análisis de impacto empresarial ( BIA ) es el proceso para determinar la criticidad de las actividades comerciales y los requisitos de recursos asociados para garantizar la resistencia operativa y la continuidad de las operaciones durante y después de una interrupción del negocio. El BIA cuantifica los impactos de las interrupciones en la prestación de servicios, los riesgos para la prestación de servicios y los objetivos de tiempo de recuperación ( RTO ) y los objetivos del punto de recuperación ( RPO ). Estos requisitos de recuperación se utilizan para desarrollar estrategias, soluciones y planes.
